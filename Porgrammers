@@ -1,0 +1,2 @@
+def solution(nums):
+	retrun min(len(nums)/2, len(set(nums))
